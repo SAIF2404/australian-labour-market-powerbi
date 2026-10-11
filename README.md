@@ -1,5 +1,5 @@
 # Australian unemployment before COVID (1978–2019)
-![Australian unemployment Power BI dashboard](dashboard-preview.png)
+![Australian unemployment Power BI dashboard](Australian%20unemployment%20Power%20BI%20dashboard.png)
 
 A Power BI case study of how Australia's monthly trend unemployment rate changed before COVID-19. The report is designed as a concise, interactive briefing: a time-series chart shows the long-run pattern, a Year slicer supports focused comparisons, and cards show the latest, peak, and lowest rates for the selected period.
 
